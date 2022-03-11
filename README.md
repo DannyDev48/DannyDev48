@@ -5,7 +5,7 @@
 <h3 align="center">I code sometimes and enjoy it :)</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react=cute" />
+    <img src="https://skillicons.dev/icons?i=ts,reactjs=cute" />
   </a>
 </p>
 

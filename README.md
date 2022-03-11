@@ -1,12 +1,16 @@
-<h1 align="center">Aye, I'm Danny</h1>
-<h3 align="center">Web Developer</h3>
 
 
-<p align="left">
+<h1 align="center">Hi!! I'm Danny 👋</h1>
+
+<h3 align="center">I code sometimes and enjoy it :)</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react=cute" />
+  </a>
 </p>
 
-<h3 align="left">Languages and frameworks I currently use:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<details>
+  <summary>Coding Stats</summary>
+
+  ![langs](https://wakatime.com/share/@redpanda/4650c33e-d833-4e5d-92a8-35284444b6e7.svg)
+</details>

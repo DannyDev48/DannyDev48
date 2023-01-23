@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi!! I'm Danny 👋</h1>
+<h1 align="center">👋</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
